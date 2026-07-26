@@ -4,7 +4,7 @@
 Analyze a user signup funnel using Python and Pandas.
 
 ## Dataset
-Event-level funnel data containing:
+Event-level funnel data containing: 
 - user_id
 - step
 - timestamp
